@@ -1,2 +1,2 @@
 I have created my-file.txt in feature-2 branch.
-I am again updating this file on remote repository.
+I am updating this file to see push changes.
